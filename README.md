@@ -2,7 +2,9 @@
 A simple UNIX shell written in C
 
 ## Installation
-Compile the shell using gcc -o shell main.c
+Compile the shell using 
+> gcc -o shell main.c
+
 Run the Shell using ./shell
 
 ## Usage
